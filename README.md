@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juliadressman
-- 👀 I’m interested in web development, usability and accessability
+- 👀 I’m interested in web development, usability and accessibility
 - 🌱 I’m currently learning Javascript, React, PHP
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me www.juliadressman.com
