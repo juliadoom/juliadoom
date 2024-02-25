@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julia
 - 👀 I’m interested in web development, usability and accessibility
-- 🌱 I’m currently learning Javascript, React, PHP, AWS
+- 🌱 I’m currently learning Javascript, React, and PHP
 - ✨ I’m looking to collaborate on web development projects
 - 📫 How to reach me www.juliadressman.com
  
